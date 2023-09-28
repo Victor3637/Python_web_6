@@ -6,8 +6,8 @@ import faker
 import psycopg2
 
 
-NUMBER_OF_TEACHERS = 6
-NUMBER_OF_STUDENTS = 67
+NUMBER_OF_TEACHERS = 5
+NUMBER_OF_STUDENTS = 44
 DBNAME = 'postgres'
 USER = 'postgres'
 PASSWORD = 'postgres'
